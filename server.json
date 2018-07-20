@@ -1,0 +1,16 @@
+{
+    "name":"EM-Applicant",
+    "app":{
+        "cfengine":"adobe@2016",
+        "logDir":"server-logs"
+    },
+    "web":{
+        "webroot":"wwwroot",
+        "rewrites":{
+            "enable":true
+        },
+        "http":{
+            "port":"51487"
+        }
+    }
+}

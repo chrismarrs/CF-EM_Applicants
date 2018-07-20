@@ -1,0 +1,17 @@
+{
+    "dependencies":{
+        "fw1":"^4.1.0",
+        "testbox":"^2.5.0+107"
+    },
+    "installPaths":{
+        "fw1":"lib/framework",
+        "testbox":"lib/testbox"
+    },
+    "testbox":{
+        "runner":"http://127.0.0.1:51487/tests/runner.cfm",
+        "Watchers":[
+            "/app/model"
+        ],
+        "verbose":false
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "jobSummary": "",
+    "hdyh": {
+        "label": "How did you hear about us?",
+        "required": "Please select how you heard about us.",
+        "placeholder": "How did you hear...",
+        "responses":[
+            { "value": "Craig's List", "text": "Craig's List"},
+            { "value": "Facebook", "text": "Facebook"},
+            { "value": "Friend or Family", "text": "Friend or Family"},
+            { "value": "Google", "text": "Google"},
+            { "value": "Indeed", "text": "Indeed"},
+            { "value": "KSL", "text": "KSL"},
+            { "value": "Newspaper", "text": "Newspaper"},
+            { "value": "Radio", "text": "Radio"},
+            { "value": "TV", "text": "TV"},
+            { "value": "Twitter", "text": "Twitter"},
+            { "value": "Website", "text": "Website"},
+            { "value": "YouTube", "text": "YouTube"},
+            { "value": "Zip Recruiter", "text": "Zip Recruiter"},
+            { "value": "Other", "text": "Other"}
+        ]
+    },
+    "hdyhOther": {
+        "label":"Please enter how you heard about us.",
+        "required": "Please enter your own response",
+        "placeholder": "How did you hear..."
+    },
+    "firstName": {
+        "label": "First Name",
+        "required": "Please enter your first name.",
+        "placeholder": "First name..."
+    },
+    "lastName": {
+        "label": "Last Name",
+        "required": "Please enter your last name.",
+        "placeholder": "Last name..."
+    },
+    "address": {
+        "label": "Address",
+        "required": "Please enter your address.",
+        "placeholder": "Address..."
+    },
+    "city": {
+        "label": "City",
+        "required": "Please enter your City",
+        "placeholder": "City..."
+    },
+    "state": {
+        "label": "State",
+        "required": "Please select your State.",
+        "placeholder": "Select your State..."
+    },
+    "zipCode": {
+        "label": "Zip",
+        "required": "Please enter your zip.",
+        "placeholder": "Zip..."
+    },
+    "email": {
+        "label": "Email",
+        "required": "Please enter your email address.",
+        "placeholder": "Email...",
+        "type": "Please enter in a valid email address."
+    },
+    "confirmEmail": {
+        "label": "Confirm Email",
+        "required": "Please confirm your email address.",
+        "placeholder": "Confirm Email...",
+        "type": "Please enter in a valid email address."
+    },
+    "phone": {
+        "label": "Phone Number",
+        "required": "Please enter your phone number.",
+        "placeholder": "Phone...",
+        "pattern": "Please enter your 10 digit phone number. (digits only)"
+    },
+    "jobAttractive": {
+        "label": "What about this job is most attractive to you?",
+        "required": "Please select a response.",
+        "placeholder": "Select most attractive...",
+        "responses": [
+            { "value": "Convenience", "text": "Convenience"},
+            { "value": "Hours", "text": "Hours"},
+            { "value": "Location", "text": "Location"},
+            { "value": "Pay", "text": "Pay"},
+            { "value": "Type of Work", "text": "Type of Work"},            { "value": "Work My Own Route", "text": "Work My Own Route"},
+            { "value": "Working On Your Own", "text": "Working On Your Own"}
+        ]
+    },
+    "englishFluent": {
+        "legend": "Are you fluent in English?",
+        "required": "Please indicate if you are fluent in english.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "bilingual": {
+        "legend": "Are you bilingual?",
+        "required": "Please indicate if you are bilingual.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "otherLanguages": {
+        "label": "Which languages?",
+        "required": "Please enter what other languages you speak.",
+        "placeholder": "Which languages..."
+    },
+    "counties": {
+        "label": "Which of these counties are you willing to work in?",
+        "required": "Please select what counties your willing to work in.",
+        "placeholder": "Select the counties...",
+        "responses": [
+            { "value": "Salt Lake", "text": "Salt Lake"},
+            { "value": "Utah", "text": "Utah"},
+            { "value": "Davis", "text": "Davis"},
+            { "value": "Weber", "text": "Weber"}
+        ]
+    },
+    "license": {
+        "legend": "Do you have a current driver's license?",
+        "required": "Please indicate if you have a current dirver's license.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "drivingRecord": {
+        "legend": "Do you have a clean driving record?",
+        "required": "Please indicate if you have a clean driving record.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "transportation": {
+        "legend": "Do you have reliable transportation that can be used to perform services?",
+        "required": "Please indicate if you have reliable transportation.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "autoInsurance": {
+        "legend": "Do you have proper auto insurance?",
+        "required": "Please indicate if you have proper auto insurance.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "smartPhone": {
+        "legend": "Do you own a smartphone with a data plan?",
+        "required": "Please indicate if you own a smartphone with a data plan.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "partOrFull": {
+        "legend": "Which are you looking for?",
+        "required": "Please indicate if you are looking for full or part time work.",
+        "partTime": "Part Time",
+        "fullTime": "Full Time"
+    },
+    "priorJanitorial": {
+        "legend": "Have you ever done janitorial or cleaning work before?",
+        "required": "Please indicate if you you have done prior janitorial work.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "priorJanitorialExplain":{
+        "label": "Please explain your prior janitorial work.",
+        "required":"Please explain your prior janitorial work.",
+        "placeholder": "Please explain..."
+    },
+    "lift": {
+        "legend": "Are you able to lift 45lbs?",
+        "required": "Please indicate if you can lift 45lbs.",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "felon": {
+        "legend": "Have you ever been convicted of a felony?",
+        "required": "Please indicate if you have been convicted of a felony",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "startDate": {
+        "label": "When are you available to start?",
+        "required": "Please select the date you are available to start.",
+        "placeholder": "MM/DD/YYYY"
+    },
+    "workHistory": {
+        "header": "WORK HISTORY",
+        "subHeader": "Please tell us about the last 3 jobs you've had.",
+        "employer": {
+            "label": "Name of employer",
+            "required": "Please enter the name of your prior employer.",
+            "placeholder": "Employer..."
+        },
+        "employerPhone": {
+            "label": "Employer Phone",
+            "required": "Please enter the phone number of the employer.",
+            "placeholder": "Employer Phone...",
+            "pattern": "Please enter the employers 10 digit phone number. (digits only)"
+        },
+        "supervisor": {
+            "label": "Supervisor Name",
+            "required": "Please enter the supervisor name.",
+            "placeholder": "Supervisor Name..."
+        },
+        "jobTitle": {
+            "label": "Job Title",
+            "required": "Please enter the job title.",
+            "placeholder": "Job Title..."
+        },
+        "responsibilities": {
+            "label": "Responsibilities",
+            "required": "Please explain your responsibilities.",
+            "placeholder": "Responsibilities..."
+        },
+        "employmentStart": {
+            "label": "Start Date",
+            "required": "Please enter the start date.",
+            "placeholder": "MM/DD/YYYY"
+        },
+        "employmentEnd": {
+            "label": "End Date",
+            "required": "Please enter the end date.",
+            "placeholder": "MM/DD/YYYY"
+        },
+        "reasonForLeaving": {
+            "label": "Reason For Leaving",
+            "required": "Please explain your reason for leaving.",
+            "placeholder": "Reason for leaving..."
+        }
+    },
+    "references": {
+        "header": "REFERENCES",
+        "subHeader": "Please exclude familiy members or members of your household.",
+        "name": {
+            "label": "Reference Name",
+            "required": "Please enter the name.",
+            "placeholder": "Reference name..."
+        },
+        "phone": {
+            "label": "Reference Phone Number",
+            "required": "Please enter the phone number.",
+            "placeholder": "Phone number...",
+            "pattern": "Please enter your references 10 digit phone number. (digits only)"
+        },
+        "relationship": {
+            "label": "Reference Relationship",
+            "required": "Please enter the relationship.",
+            "placeholder": "Relationship..."
+        }
+    }
+}
